@@ -60,5 +60,5 @@ Programming: An Introduction to Computer Science" by John Zelle,
 published by Franklin, Beedle & Associates.  Also see
 http://mcsp.wartburg.edu/zelle/python for a quick reference
 
-CREDITS: to "Python Programming: An Introduction to Computer Science" by John Zelle, published by Franklin, Beedle & Associates
+CREDITS:"Python Programming: An Introduction to Computer Science" by John Zelle, published by Franklin, Beedle & Associates
 AND to my teacher Mrs. Permuy!
